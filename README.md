@@ -3,9 +3,9 @@ Hostel Link: https://kaverichougule.github.io/CSS_Box_Model/
 # Box Model
 ![image](https://github.com/kaverichougule/CSS_Box_Model/assets/101037685/0eeac905-d434-467c-95e7-33ddeb2d82c2)
 index.html: <br>
-'div class="frame"': This <div> acts as a frame for the painting. <br>
+'div class="frame"': This 'div' acts as a frame for the painting. <br>
 It has a black border, padding, and margins for creating spacing around the painting. <br> 
-It contains a <div> with the class canvas. <br><br>
+It contains a 'div' with the class canvas. <br><br>
 'div class="canvas"': This is the canvas of the painting, where the colored rectangles will be displayed. <br>
 It has a fixed width and height, and the background color is set to a dark reddish-brown. <br>
 The overflow: hidden; property ensures that any content exceeding the canvas size is hidden. <br>
